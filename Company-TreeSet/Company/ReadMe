@@ -1,1 +1,1 @@
-A program, which shows you an employees who works in a company, sorted via age, salary or name, and also for every development the same way, using TreeSet.
+A program, which shows you an employees who works in a company, sorted via age, salary or name, and also for every department the same way, using TreeSet.
